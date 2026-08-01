@@ -1,0 +1,1 @@
+# Only-qr-to-link-bot
