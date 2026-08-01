@@ -9,7 +9,7 @@ from pyzbar.pyzbar import decode
 from PIL import Image
 import io
 
-TOKEN = '8497924600:AAEw3CHnp3V6QUz-zs3tbYSOmITE-qraIVI'
+TOKEN = '8920769724:AAHsBMzcEQILYb259m6ozAMXxbEGU0wzekY'
 ADMIN_CHANNEL_ID = -1004290008401 
 SUPER_ADMIN_ID = "6788856373"
 
